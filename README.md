@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Kali%20Linux-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
   </a>
   <a href="#">
-    <img width="35px" src="https://img.icons8.com/plasticine/452/tails-OS.png" alt="Kali Linux Logo">
+    <img width="35px" src="https://img.icons8.com/plasticine/452/Kali-Linux.png" alt="Kali Linux Logo">
   </a>
 </div>
 <div>
