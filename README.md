@@ -51,18 +51,20 @@
 <div>
   <a href="#">
     <img <a href="#">
-  <img <img src="https://img.shields.io/badge/Tails-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
+  <img
+src="https://img.shields.io/badge/Ubuntu-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
   </a>
   <a href="#">
-    <img width="25px" src="https://tails.net/contribute/how/promote/material/logo/tails-logo-drawing.svg" alt="Tails Logo">
+    <img width="25px" src="https://img.icons8.com/color/362/debian.png" alt="Debian Logo">
   </a>
 </div>
 <div>
   <a href="#">
-    <img src="https://img.shields.io/badge/Ubuntu-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
+    <img 
+src="https://img.shields.io/badge/Tails-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
   </a>
   <a href="#">
-    <img width="25px" src="https://img.icons8.com/color/362/debian.png" alt="Debian Logo">
+    <img width="25px" src="https://tails.net/contribute/how/promote/material/logo/tails-logo-drawing.svg" alt="Tails Logo">
   </a>
 </div>
 
