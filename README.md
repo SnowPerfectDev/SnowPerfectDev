@@ -72,16 +72,6 @@ src="https://img.shields.io/badge/Tails-Latest-100000?style=for-the-badge&logo=L
 
 ---
 
-<div>
-
-### Contact:
-<a href="https://t.me/MercenarioOFC" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" alt="Telegram"></a>
-<a href="http://wa.me/55" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp"></a> 
-
-</div>
-
----
-
 <p align="center"> 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 </p>
